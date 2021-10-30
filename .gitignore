@@ -15,3 +15,5 @@
 # vendor/
 .env
 logo.svg
+go_download
+.vscode
